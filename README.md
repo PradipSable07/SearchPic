@@ -18,20 +18,13 @@ Welcome to SearchPic, a powerful image search application built with React.js th
 
 ```
 src/
-|-- app.jsx
+|-- App.jsx
 |-- main.jsx
 |-- index.css
-|-- components/
-|   |-- SearchBar/
-|   |   |-- SearchBar.jsx
-|   |-- ImageGrid/
-|   |   |-- ImageGrid.jsx
-|   |-- ImageCard/
-|       |-- ImageCard.jsx
-|-- context/
-|   |-- ThemeContext.jsx
-|-- services/
-|   |-- unsplashService.js
+|-- Gallery.jsx
+|-- context.jsx
+|-- SearchForm.jsx
+|-- ThemeToggle.jsx
 |-- ...
 ```
 
